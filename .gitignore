@@ -1,0 +1,13 @@
+# 本地参考资源，不进远程仓库
+/.trae/
+/_local/
+/.workbuddy/
+
+# 系统/IDE
+.DS_Store
+*.swp
+.idea/
+
+# Go 代理二进制（体积大且属原作者构建，仅本地备份）
+/moyu/go/
+/pangmao/go/

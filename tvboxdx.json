@@ -1,0 +1,64 @@
+{
+    "urls": [
+        {
+            "url": "https://cnb.cool/dodgezhang/tvbox/-/git/raw/main/fantaiying/fty.json",
+            "name": "饭太硬"
+        },
+        {
+            "url": "https://cnb.cool/dodgezhang/tvbox/-/git/raw/main/feimao/fm.json",
+            "name": "肥猫"
+        },
+        {
+            "url": "https://cnb.cool/dodgezhang/tvbox/-/git/raw/main/moyu/my.json",
+            "name": "摸鱼"
+        },
+        {
+            "url": "https://cnb.cool/dodgezhang/tvbox/-/git/raw/main/wangerxiao/wex.json",
+            "name": "王二小"
+        },
+        {
+            "url": "https://cnb.cool/dodgezhang/tvbox/-/git/raw/main/pangmao/pm.json",
+            "name": "胖猫"
+        },
+        {
+            "url": "https://cnb.cool/dodgezhang/tvbox/-/git/raw/main/xiaosa/xs.json",
+            "name": "潇洒"
+        },
+        {
+            "url": "https://cnb.cool/dodgezhang/tvbox/-/git/raw/main/huban/hb.json",
+            "name": "虎斑"
+        },
+        {
+            "url": "https://cnb.cool/dodgezhang/tvbox/-/git/raw/main/aowu/aw.json",
+            "name": "嗷呜"
+        },
+        {
+            "url": "https://cnb.cool/dodgezhang/tvbox/-/git/raw/main/kulao/kl.json",
+            "name": "裤佬"
+        },
+        {
+            "url": "https://cnb.cool/dodgezhang/tvbox/-/git/raw/main/laozhang/lz.json",
+            "name": "老张"
+        },
+        {
+            "url": "https://cnb.cool/dodgezhang/tvbox/-/git/raw/main/vox/vox.json",
+            "name": "vox"
+        },
+        {
+            "url": "https://cnb.cool/dodgezhang/tvbox/-/git/raw/main/pg/pg.json",
+            "name": "PG"
+        },
+        {
+            "url": "https://cnb.cool/dodgezhang/tvbox/-/git/raw/main/zhenxin/zx.json",
+            "name": "真心"
+        },
+        {
+            "url": "https://cnb.cool/dodgezhang/tvbox/-/git/raw/main/haitun/ht.json",
+            "name": "海豚"
+        },
+        {
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/goodcommunication/mydm/main/dm.json",
+            "name": "小白弹幕"
+        }
+    ]
+}
